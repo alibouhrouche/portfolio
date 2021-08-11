@@ -1,0 +1,92 @@
+{
+    "title": "Hi",
+    "subtitle": "I'm Ali Bouhrouche",
+    "img": "https://github.com/alibouhrouche.png",
+    "alt": "My Picture",
+    "img-size": 460,
+    "chat": {
+        "placeholder": "Message",
+        "subject": "Portfolio Contact Form",
+        "endpoint": "https://formsubmit.co/ajax/1ce68c07dc5ef9cf26a706d6e96620fd"
+    },
+    "social":[
+        {
+            "id":"gh",
+            "name":"Github",
+            "href":"https://github.com/alibouhrouche/"
+        },{
+            "id":"insta",
+            "name":"Instagram",
+            "href":"https://instagram.com/alibouhrouche/"
+        },{
+            "id":"fb",
+            "name":"Facebook",
+            "href":"https://facebook.com/alibouhrouche"
+        },{
+            "id":"tw",
+            "name":"Twitter",
+            "href":"https://twitter.com/alibouhrouche"
+        },{
+            "id":"tg",
+            "name":"Telegram",
+            "href":"https://t.me/alibouhrouche"
+        },{
+            "id":"sc",
+            "name":"Snapchat",
+            "href":"https://www.snapchat.com/add/alibouhrouche"
+        },{
+            "id":"ch",
+            "name":"ClubHouse",
+            "href":"https://www.clubhouse.com/@alibouhrouche"
+        },{
+            "id":"in",
+            "name":"LinkedIn",
+            "href":"https://www.linkedin.com/in/ali-bouhrouche-462794212"
+        }
+    ],"alerts":[
+    ],"cardHeight":"15rem"
+    ,"cards":[
+        {
+            "id":"contact",
+            "name":"Bio",
+            "color": "#000000",
+            "link":"/#!/contact",
+            "img": "https://source.unsplash.com/640x360/daily?space",
+            "desc":[
+                "👨‍💻 Computer Science Student",["br"],
+                "📚 Speaking 3 languages",["br"],
+                "🎓 Diving into Tech",["br"],
+                "Swipe for more..."
+            ]
+        },{
+            "id":"clearn",
+            "name":"C Learn",
+            "color": "#000000",
+            "link":"https://clearn.glitch.me/",
+            "img":"https://source.unsplash.com/wl5AypUmamo/640x360",
+            "desc":["A Web Site To Learn C Programming Language."]
+        },{
+            "id":"matrixcalc",
+            "name":"Matrix Manipulation",
+            "color": "#cacaca",
+            "link":"https://ali-s3-matrix.glitch.me/",
+            "img":"https://source.unsplash.com/05A-kdOH6Hw/640x360",
+            "desc":["A Web Site To Learn Matrices Manipulation."]
+        },{
+            "id":"covid19",
+            "name":"Covid 19",
+            "color":"#d4cede",
+            "link":"https://sarscov2.glitch.me/",
+            "img":"https://source.unsplash.com/rnr8D3FNUNY/640x360",
+            "desc":["A Simple App To Track Corona Virus Spread."]
+        },{
+            "id":"insta-p",
+            "name":"Instagram Portfolio",
+            "color":"#101C35",
+            "link":"https://portfolio-insta.glitch.me/",
+            "img":"https://source.unsplash.com/71Qk8ODIBko/640x360",
+            "desc":["A Tiny App To Show Instagram Profiles And Posts In A beautiful Way."]
+        }
+    ],"modals": {
+    }
+}
